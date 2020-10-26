@@ -1,0 +1,56 @@
+---
+title: "Article 1"
+author:
+  - name: Louise Lilin
+    url: {}
+date: 10-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+# Article 1: Study Says Wild Crops Can Bolster Food Access in Arid Climates  
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+- Source of the article : [Food Tank](https://foodtank.com/news/2020/09/study-says-wild-crops-can-bolster-food-access-in-arid-climates/)  
+
+- Publication date : 29 July 2020  
+
+- Word count : 611 words
+
+## II - VOCABULARY
+
+| Word from the text | Synonym / Definition in English | Translation in French |
+|:------------------:|:-------------------------------:|:---------------------:|
+| Crop | Something cultivated | Culture |
+| Sustainable | Something with time durability, causing little damage to the environment | Durable, viable |
+| Indigenous | Native, local | Durable, viable |
+| To bolt | To support | Soutenir |
+| Draught | Lack of rain | Sécheresse |
+| To flood | To fill up with water | Inonder |
+| Yield | Amount produced | Récolte |
+| Intercropping | Growing multiple crops in proximity | Culture intercalaire ou associée |
+| Agrovoltaic | Combination of agriculture and photovoltaic power | Agrovoltaïque |
+
+
+## III - ANALYSIS TABLE ABOUT THE STUDY
+
+| Researchers | University of Arizona, Dr. Erin Riordan |
+|---|---|
+| Published in  | 29 July 2020  |
+| General topic  |  Crop sustainability in arid environments (American desert) |
+| Procedure / What was examined  |  Sustainability of different crops, conventional ones (like wheat, rice and soy) compared to indigenous ones (agaves, cacti, succulents and legumes) in an arid environment with a poor soil subjected to frequent droughts and floods, based on the requirements in terms of water, chemicals and energy.Benefits of the use of indigenous crops (ecosystems, health, working conditions). |
+| Conclusion / discovery  | Indigenous crops are the more thriving in arid climates.The researchers also give guidelines to plant the crops and implement them in the local economy  |
+| Remaining questions  | The indigenous crops will have some difficulty challenging the industry preferences for more conventional crops. The research team believes their results could be applied to other similar regions.  |
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-10-26-article-1/",
+    "title": "Article 1",
+    "description": {},
+    "author": [
+      {
+        "name": "Louise",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-26",
+    "categories": [],
+    "contents": "\r\nArticle 1: Study Says Wild Crops Can Bolster Food Access in Arid Climates\r\nI - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:\r\nSource of the article : Food Tank\r\nPublication date : 29 July 2020\r\nWord count : 611 words\r\nII - VOCABULARY\r\nWord from the text\r\nSynonym / Definition in English\r\nTranslation in French\r\nCrop\r\nSomething cultivated\r\nCulture\r\nSustainable\r\nSomething with time durability, causing little damage to the environment\r\nDurable, viable\r\nIndigenous\r\nNative, local\r\nDurable, viable\r\nTo bolt\r\nTo support\r\nSoutenir\r\nDraught\r\nLack of rain\r\nSécheresse\r\nTo flood\r\nTo fill up with water\r\nInonder\r\nYield\r\nAmount produced\r\nRécolte\r\nIntercropping\r\nGrowing multiple crops in proximity\r\nCulture intercalaire ou associée\r\nAgrovoltaic\r\nCombination of agriculture and photovoltaic power\r\nAgrovoltaïque\r\nIII - ANALYSIS TABLE ABOUT THE STUDY\r\nResearchers\r\nUniversity of Arizona, Dr. Erin Riordan\r\nPublished in\r\n29 July 2020\r\nGeneral topic\r\nCrop sustainability in arid environments (American desert)\r\nProcedure / What was examined\r\nSustainability of different crops, conventional ones (like wheat, rice and soy) compared to indigenous ones (agaves, cacti, succulents and legumes) in an arid environment with a poor soil subjected to frequent droughts and floods, based on the requirements in terms of water, chemicals and energy.Benefits of the use of indigenous crops (ecosystems, health, working conditions).\r\nConclusion / discovery\r\nIndigenous crops are the more thriving in arid climates.The researchers also give guidelines to plant the crops and implement them in the local economy\r\nRemaining questions\r\nThe indigenous crops will have some difficulty challenging the industry preferences for more conventional crops. The research team believes their results could be applied to other similar regions.\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-10-26T03:16:19+01:00",
+    "input_file": "article-1.utf8.md"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},
