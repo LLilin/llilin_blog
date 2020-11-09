@@ -26,8 +26,8 @@ comments: true
 | Crop | Something cultivated | Culture |
 | Sustainable | Something with time durability, causing little damage to the environment | Durable, viable |
 | Indigenous | Native, local | Durable, viable |
-| To bolt | To support | Soutenir |
-| Draught | Lack of rain | Sécheresse |
+| To bolster | To support | Soutenir |
+| Drought | Lack of rain | Sécheresse |
 | To flood | To fill up with water | Inonder |
 | Yield | Amount produced | Récolte |
 | Intercropping | Growing multiple crops in proximity | Culture intercalaire ou associée |
@@ -44,7 +44,39 @@ comments: true
 | Conclusion / discovery  | Indigenous crops are the more thriving in arid climates.The researchers also give guidelines to plant the crops and implement them in the local economy  |
 | Remaining questions  | The indigenous crops will have some difficulty challenging the industry preferences for more conventional crops. The research team believes their results could be applied to other similar regions.  |
 
+## IV - Article
 
+Study Says Wild Crops Can Bolster Food Access in Arid Climates
+
+A recent study from the University of Arizona finds wild desert **crops** could be the key to **sustainable** farming in arid conditions. The article, “An Aridamerican model for agriculture in a hotter, water scarce world,” proposes reintroducing **indigenous** food crops to desert regions **to bolster** food security, restore local ecosystems, and improve community health.
+
+This summer, California’s Death Valley reached 130 degrees Fahrenheit—one of the hottest temperatures ever recorded on earth. Extreme weather events like heatwaves, **droughts**, and **floods** are only expected to worsen in the coming years, according to scientists at the United Nations, National Aeronautics and Space Administration, and National Oceanic and Atmospheric Administration.
+
+These changes pose a threat to crops that grow hot, dry areas, such as “Aridamerica”—a desert region across the U.S. Southwest and Mexico, and the focus of the researchers’ recent study.
+
+According to the study, many of the crops that grow in Aridamerica, including wheat, rice, and soy, are not naturally equipped to survive in arid climates, since they didn’t originate in the region. As temperatures rise and weather fluctuates, they will require more water, chemicals, and electricity to grow.
+
+The study suggests that wild desert crops may be a sustainable alternative to conventional crops. Already adapted to extreme weather, these indigenous species require less water and energy, and produce more reliable **yields**.
+
+“Wild desert plants have a remarkable number of adaptations to cope with heat, drought, unpredictable rainfall, and poor soils—the sorts of stressful growing conditions we are already seeing and expect to see more of in the future,” Dr. Erin Riordan, one of the study’s co-authors, tells Food Tank.
+
+Riordan and her team evaluated plants traditionally eaten by Indigenous Sonoran Desert cultures. Their report highlights 17 crops most likely to thrive in arid climates and, in turn, benefit the health of local communities. The crops include an array of agaves, cacti, succulents, and legumes.
+
+The researchers also provide guidelines on how to plant the crops. First, they propose **intercropping**, or strategically planting different crops side-by-side to maximize efficiency. For example, legume trees could provide shade for cacti and annuals, while their roots trap water and prevent soil erosion.
+
+Intercropping isn’t new, Riordan tells Food Tank. “For centuries, traditional farming in Aridamerica has coupled perennial succulent plants like cacti and agaves, with annual species like amaranth.”
+
+The team also suggests planting heat-sensitive crops in the shade of solar panels. This technique, known as **agrovoltaics**, combines agriculture with photovoltaic power, or solar power.
+
+They note that desert plants can also provide locals with direct access to healthy food. According to the study, many indigenous crops are high in nutrients, including antioxidants and other cancer-preventing compounds. Some are shown to support heart health, kidney and immune system function, and insulin metabolism, which can help patients with type 2 diabetes.
+
+The researchers also hope their sustainable farming model will benefit local communities by providing stable jobs and improving conditions for farm workers, since conventional crops will lower temperatures in the surrounding area.
+
+Still, the Aridamerica model poses a number of challenges. “Industry preferences for commercial crops have eroded access to, and knowledge of, our regionally adapted wild foods,” Riordan tells Food Tank.
+
+She says that marketing, seed-sharing networks, and partnerships with local chefs can help repopularize traditional desert ingredients. She also states that farmers might need financial incentives to switch from annual to perennial crops, which take longer to pay off.
+
+If successful, the team believes their research can be adapted to other regions. “Today’s arid lands are our laboratories for the future,” says Riordan.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
