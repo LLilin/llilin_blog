@@ -1,0 +1,79 @@
+---
+title: "Article 3 - Farmer study provides water use lessons"
+author:
+- name: Louise Lilin
+  url: {}
+date: "12-14-2020"
+output:
+  html_document:
+    df_print: paged
+  distill::distill_article:
+    self_contained: no
+comments: yes
+---
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.nzherald.co.nz/the-country/news/farmer-study-provides-water-use-lessons/SWT3UKV3FVERGXZAIW2EWPUFWY/
+
+Word count : 419
+
+## II - VOCABULARY
+
+| Word from the text  | Synonym/ definition  |
+|---|---|
+| Groundwater  | Underground water resources (= nappes phréatiques)  |
+| Over-allocation  | More resources have been promised/ allocated than the existing quantity  |
+| To gauge  | To measure  |
+| Surface water  | Opposed to ground water : water on the earth surface, such as rivers, lakes and wetlands  |
+| Cash crops  |Crops grown to sell for profit (and not for subsistence of the farmer’s family), often holding some export value|
+| Soft data  |Informations about things that are difficult to measure|
+| Catchment scale  |Area of land where precipitation collects and drains off into a common outlet|
+
+## III - ANALYSIS TABLE ABOUT THE STUDY
+
+| Researchers  | Ho Chi Minh University 
+Flinders University 
+H.M. Vu, M. Shanafield, T.T. Nhat, D. Partington, O. Batelaan  |
+|---|---|
+| Published in ? when  |Journal of Hydrology : Regional Studies, August 2020|
+| General topic  |Mapping of groundwater in the La Vi River Basin in Vietnam|
+| Procedure/ what was examined  |Interview of vietnamese farmers (= soft data)(to estimate their use of land and water)
+Modellisation of the spatial distribution of groundwater |
+| Conclusions/ discovery  |Elementary informations on the groundwater distribution, usable to improve water management during water scarcity in the basin
+A simple and cost-effective method functional in other agricultural regions lacking data on water|
+| Reamining questions  |/|
+
+## IV - Article : Farmer study provides water use lessons
+
+Research into Vietnamese farmers' *groundwater* usage could have benefits for their Australian counterparts, according to a study from Flinders University.
+
+The heavily agricultural La Vi River Basin in Vietnam was the focus of the study, forming part of a five-year project funded by the Australian Centre for International Agricultural Research (ACIAR).
+
+"Groundwater use for food and industrial production is increasing globally, putting pressure on groundwater resources and associated ecosystems," said Flinders University Professor Okke Batelaan.
+
+"In many countries, particularly in developing regions as well as Australia's Murray-Darling Basin (MDB), this abstraction may be poorly organised and not regularly *gauged* for data."
+
+*Over-allocation* of *surface water* for growing food crops is shifting agriculture and other industry to use groundwater - which was much more difficult to measure and monitor.
+
+Using local farmer knowledge as "*soft data*" to estimate groundwater use in modelling was a helpful tool in mapping sustainable use of scarce resources, Flinders University experts said.
+
+Environmental and water researchers from Flinders have described the technique in a new paper published online in the Journal of Hydrology: Regional Studies.
+
+The researchers, including John Allwright fellow Flinders PhD candidate Manh Hai Vu, interviewed local farmers about their land use, agricultural practices and water use.
+
+The approach was very helpful in collecting base line information for future use – particularly when climate change or variable rainfall posed a threat to future water management, said Dr Margaret Shanafield, from the National Centre for Groundwater Research and Training based at Flinders University.
+
+"Although often thought of as a wet, tropical climate, Vietnam's South central coast has long dry seasons, and hence suffers from surface water shortages, similar to many parts of Australia," said Shanafield.
+
+"Groundwater use provides a significant solution to local farmers for producing *cash crops* and improving livelihood."
+
+The system could also be used in Australia in areas such as the northern part of the MDB where groundwater is largely unmonitored.
+
+The study developed a cost-effective and computationally simple solutions for estimating groundwater abstraction in data-poor agricultural regions, researchers said.
+
+- Mapping *catchment-scale*unmonitored groundwater abstractions: Approaches based on soft data (2020) by Vu MH Vu, M Shanafield, TT Nhat, D Partington, O Batelaan has been published in the Journal of Hydrology: Regional Studies
+
+
+
+
