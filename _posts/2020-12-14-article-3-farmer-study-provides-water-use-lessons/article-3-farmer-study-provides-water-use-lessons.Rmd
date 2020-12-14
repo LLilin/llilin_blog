@@ -35,16 +35,12 @@ Word count : 419
 
 ## III - ANALYSIS TABLE ABOUT THE STUDY
 
-| Researchers  | Ho Chi Minh University 
-Flinders University 
-H.M. Vu, M. Shanafield, T.T. Nhat, D. Partington, O. Batelaan  |
+| Researchers  | Ho Chi Minh University / Flinders University / H.M. Vu, M. Shanafield, T.T. Nhat, D. Partington, O. Batelaan  |
 |---|---|
 | Published in ? when  |Journal of Hydrology : Regional Studies, August 2020|
 | General topic  |Mapping of groundwater in the La Vi River Basin in Vietnam|
-| Procedure/ what was examined  |Interview of vietnamese farmers (= soft data)(to estimate their use of land and water)
-Modellisation of the spatial distribution of groundwater |
-| Conclusions/ discovery  |Elementary informations on the groundwater distribution, usable to improve water management during water scarcity in the basin
-A simple and cost-effective method functional in other agricultural regions lacking data on water|
+| Procedure/ what was examined  |Interview of vietnamese farmers (= soft data)(to estimate their use of land and water) / Modellisation of the spatial distribution of groundwater |
+| Conclusions/ discovery  |Elementary informations on the groundwater distribution, usable to improve water management during water scarcity in the basin / A simple and cost-effective method functional in other agricultural regions lacking data on water|
 | Reamining questions  |/|
 
 ## IV - Article : Farmer study provides water use lessons
