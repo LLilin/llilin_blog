@@ -1,0 +1,79 @@
+---
+title: "Article 2"
+author:
+- name: Louise Lilin
+  url: {}
+date: "12-14-2020"
+output:
+  html_document:
+    df_print: paged
+  distill::distill_article:
+    self_contained: no
+comments: yes
+---
+# Article 2: CIP scientists developing digital tools to optimize irrigation water use in potato production
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article : https://www.potatonewstoday.com/2020/10/25/cip-scientists-developing-digital-tools-to-optimize-irrigation-water-use-in-potato-production/
+
+Word Count: 611 words
+
+## II- VOCABULARY
+
+sult (click "Generate" to refresh)
+Copy to clipboard
+  Preview
+
+| Word from the text  | Synonym/ definition  |
+|---|---|
+| evapotranspiration  | Water loss in the atmosphere through evaporation  |
+| irrigation  | watering  |
+| Water stress  | Demand for water exceeds the available amount   |
+| Drought  | Water scarcity  |
+| Open-access software  | Source code of the software is released by the creator allowing anyone to freely use it, change it and distribute it  |
+| Threshold  | Limit  |
+| Drip irrigation  | Watering system allowing water to slowly drip to the roots of the plant and minimize evaporation  |
+| unmanned aerial vehicles  | Aircraft without a human pilot onboard  |
+| Fallow  | Uncultivated piece of land  |
+
+## III- ANALYSIS RABLE ABOUT THE STUDY
+
+| Researchers  | Team from the International Potato Center (CIP) lead by David Ramirez  |
+|---|---|
+| Published in ? when  | published by the international potato center (october 2020)  |
+| General topic  | Optimization of water irrigation using digital tools for potato production during water scarcity  |
+| Procedure/ what was examined  | Study of potato crop reactions to water stress : different cameras were used to find the threshold at which the yields will be compromised. Measures were taken at different times of the day to detect the plant response to water stress.  |
+| Conclusions/ discovery  | Those measurements lead the reaserchers team to develop a software allowing farmers to monitor irrigation with thermal cameras, reducing the quantity of water needed for the potato harvest by 40 %.  |
+| Remaining questions  | The programm still seek improvement to assist more precisely the farmers using them.  |
+
+
+## IV - Article : CIP scientists developing digital tools to optimize irrigation water use in potato production
+
+on October 25, 2020
+
+Agriculture accounts for about 70% of global freshwater use, and as the population grows, so will demand for water. At the same time, global warming is increasing water loss through *evapotranspiration*, and intensifying the risk of *drought* in many regions. This confluence of factors makes it vital to improve the efficiency of *irrigation* so farmers can produce enough food for the more than 9 million people predicted by 2050, according to a news release issued by the International Potato Center (CIP).
+
+Potato has good potential to help the world meet that challenge, since it produces more calories per liter of water than other major staple crops. Scientists at the International Potato Center (CIP) are trying to enhance that potential through the development of digital tools to optimize the use of water in irrigation.
+
+A team of researchers led by crop ecophysiologist David Ramírez has used a combination of conventional and thermal cameras to study how potato plants react to *water stress*. In field studies in the rain-deprived coastal desert of Peru, they shot infrared and visible images of a potato crop at different times of the day to detect changes in the temperature of the leaf canopies that are part of potato’s response to drought stress. 
+
+They also developed *open-access software* called Thermal Image Processor (TIPCIP) to analyze those images, and created an early-drought-stress index to identify an indicator for when potato plants reach the *threshold* at which they need to be watered or their yields will be compromised.
+
+By irrigating only when the plants reached that threshold, the researchers were able to greatly reduce the amount of water used in irrigation without provoking yield loss – an approach that farmers can use in areas where water is scarce to optimize their water use.
+
+“Our research shows that through a combination of monitoring with thermal cameras and *drip irrigation*, farmers can reduce the water needed to produce a good potato harvest by at least 1,600 cubic meters per hectare, which is about 40% less than is used in traditional surface irrigation systems,” Ramírez said.
+A plug-in that converts a smartphone onto an infrared camera makes monitoring potato crops for drought stress affordable.
+
+He explained that on large farms thermal cameras can be mounted on *unmanned aerial vehicles* to monitor water stress, but this method is prohibitively expensive for most small and medium-sized farmers. As an alternative, Ramirez has tested a more affordable option – a plug-in device that transforms a smartphone into an infrared camera, which costs around USD 200 with support from the CGIAR Research Program on Roots, Tubers and Bananas. 
+
+CIP scientists have developed a user-friendly version of TIPCIP to analyze smartphone images, and are planning a future version of the program to provide farmers with more specific information about when and with how much water to irrigate.
+
+“Through the use of open-access technology and affordable tools, we can help farmers produce food with less water,” affirmed Ramírez.
+
+A combination of better water management and drought-tolerant varieties could greatly enhance the potato’s resilience in future climates and enable its cultivation in regions where little or no food is currently grown, or during dry months when farmland now lays *fallow*.
+
+But the technology alone is not enough. Ramírez added that such advances need to be complimented by policies that promote more efficient and sustainable management of water resources.
+
+As climate change and population growth advance, such improvements can help ensure that the potato growers, and farmers of other crops, can continue to produce the nourishment the world needs while staying within the planet’s ecological boundaries.
+
