@@ -1,5 +1,50 @@
 [
   {
+    "path": "posts/2020-12-14-article-2-cip-scientists-developing-digital-tools-to-optimize-irrigation-water-use-in-potato-production/",
+    "title": "Article 2 - CIP scientists developing digital tools to optimize irrigation water use in potato production",
+    "description": {},
+    "author": [
+      {
+        "name": "Louise Lilin",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-14T03:31:33+01:00"
+  },
+  {
+    "path": "posts/2020-12-14-article-3-farmer-study-provides-water-use-lessons/",
+    "title": "Article 3 - Farmer study provides water use lessons",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Louise Lilin",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-14T03:19:10+01:00"
+  },
+  {
+    "path": "posts/2020-12-14-article-4-an-ai-analysis-of-500000-studies-shows-how-we-can-end-world-hunger/",
+    "title": "Article 4 - An AI Analysis of 500,000 Studies Shows How We Can End World Hunger",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Louise Lilin",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-14T03:40:54+01:00"
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
@@ -30,7 +75,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-09T18:29:13+01:00"
+    "last_modified": "2020-11-09T18:29:15+01:00"
   },
   {
     "path": "posts/about/",
@@ -45,6 +90,6 @@
     "date": "2020-10-08",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-08T11:48:02+02:00"
+    "last_modified": "2020-11-06T12:07:54+01:00"
   }
 ]
